@@ -4,5 +4,7 @@
 
 
 
-Это второй файл
-для ветки MySecondBranch
+Это второй файл для ветки MySecondBranch
+
+
+Внес изменения на самом GitHube 
